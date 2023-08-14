@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ujwal, Computer Science undergrad in my Junior year at the University of Houston
-- 🌱 I’m currently learning web development through the Odin Project
+- 🌱 I’m currently learning the fundamentals of Data Engineering in Python
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
   -  Email: joshiujwal2003@gmail.com
