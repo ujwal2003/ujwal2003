@@ -3,4 +3,4 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
   -  Email: joshiujwal2003@gmail.com
-  -  LinkedIn: linkedin.com/in/ujwalujoshi/
+  -  LinkedIn: [linkedin.com/in/ujwalujoshi](https://www.linkedin.com/in/ujwalujoshi/)
