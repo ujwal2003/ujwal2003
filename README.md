@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ujwal, Computer Science undergrad in my Junior year at the University of Houston
-- 🌱 I’m currently learning the fundamentals of Databases, Data Science, as well as web devolpment in React and Tailwind
+- 🌱 I’m currently learning the fundamentals of Data Science, Web devolpment with React and Tailwind, and much more!
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
   -  Email: joshiujwal2003@gmail.com
