@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ujwal, Computer Science undergrad in my Junior year at the University of Houston
+- 👋 Hi, I'm Ujwal, Computer Science undergrad in my Senior year at the University of Houston
 - 🌱 I’m currently learning the fundamentals of Data Science, Web devolpment with React and Tailwind, and much more!
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
