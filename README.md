@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ujwal, Computer Science undergrad in my Senior year at the University of Houston
-- 🌱 I’m currently learning the fundamentals of iOS Development and much more!
+- 🌱 I’m currently working at Paycom as a Software Developer!
 - 📫 How to reach me: 
   -  Email: joshiujwal2003@gmail.com
   -  LinkedIn: [linkedin.com/in/ujwalujoshi](https://www.linkedin.com/in/ujwalujoshi/)
